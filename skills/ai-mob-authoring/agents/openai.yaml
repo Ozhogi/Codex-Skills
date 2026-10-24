@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Mob Authoring"
+  short_description: "Create mobs on the AI state machine"
+  default_prompt: "Use $ai-mob-authoring to create or modify a mob on the AI State Machine framework."

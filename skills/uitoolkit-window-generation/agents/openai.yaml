@@ -1,0 +1,4 @@
+interface:
+  display_name: "UIToolkit Window Generation"
+  short_description: "Generate project-style UI Toolkit windows"
+  default_prompt: "Use this skill when creating UI Toolkit windows from the UIToolkitTestWidgets pattern."

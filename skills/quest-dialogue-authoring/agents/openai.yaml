@@ -1,0 +1,4 @@
+interface:
+  display_name: "Quest Dialogue Authoring"
+  short_description: "Edit Outcasts quest and dialogue graphs with localization."
+  default_prompt: "Use this skill when adding or editing Outcasts quest objectives, dialogue lines, or story graph flow."

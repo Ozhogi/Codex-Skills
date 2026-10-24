@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reference Database List Authoring"
+  short_description: "Create ReferenceDatabase-backed list keys and save-state lists."
+  default_prompt: "Use this skill when replacing string keys with ReferenceDatabase collector references and persisted lists."

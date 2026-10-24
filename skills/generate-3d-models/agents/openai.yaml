@@ -1,0 +1,4 @@
+interface:
+  display_name: "Generate 3D Models"
+  short_description: "Build primitive Unity models and export FBX"
+  default_prompt: "Use $generate-3d-models to build a Unity scene model from primitives and export it as FBX."
